@@ -13,3 +13,4 @@ Im planning to have at least these functions:
 - Data visualization for various Sensors (❌)
 - Bluetooth Dos (❌)
 - Wifi DoS (❌)
+- Password Bruteforce (❌)
